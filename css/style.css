@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("/Oswald/Regular.ttf")
+    font-weight: 500px;
+}
+
+@font-face {
+    font-family: "Oswald2";
+    src: url("/Oswald/DemiBold.ttf")
+    font-weight: 300px;
+}
+
+a{
+    font-size: x-large;
+    color: black;
+    font-weight: 600;
+}
+
+h1{
+    font-family: "Oswald";
+    text-align: right;
+    margin-right: 2%;
+}
+
+h3{
+    font-family: "Oswald2";
+    text-align: right;
+    margin-right: 2%;
+}
+
+img{
+    width: 400px;
+    margin-left: 70%;
+    margin-right: 30%;
+}
